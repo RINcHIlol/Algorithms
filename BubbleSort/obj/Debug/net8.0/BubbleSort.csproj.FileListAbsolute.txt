@@ -1,0 +1,14 @@
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/bin/Debug/net8.0/BubbleSort
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/bin/Debug/net8.0/BubbleSort.deps.json
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/bin/Debug/net8.0/BubbleSort.runtimeconfig.json
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/bin/Debug/net8.0/BubbleSort.dll
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/bin/Debug/net8.0/BubbleSort.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.AssemblyInfoInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.AssemblyInfo.cs
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.csproj.CoreCompileInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.dll
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/obj/Debug/net8.0/refint/BubbleSort.dll
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.genruntimeconfig.cache
+/Users/rinchi/VSCodeProjects/Algorithms/BubbleSort/obj/Debug/net8.0/ref/BubbleSort.dll

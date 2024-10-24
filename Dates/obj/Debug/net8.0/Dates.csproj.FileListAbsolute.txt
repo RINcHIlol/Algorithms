@@ -1,0 +1,14 @@
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/bin/Debug/net8.0/Dates
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/bin/Debug/net8.0/Dates.deps.json
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/bin/Debug/net8.0/Dates.runtimeconfig.json
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/bin/Debug/net8.0/Dates.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/bin/Debug/net8.0/Dates.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/Dates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/Dates.AssemblyInfoInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/Dates.AssemblyInfo.cs
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/Dates.csproj.CoreCompileInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/Dates.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/refint/Dates.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/Dates.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/Dates.genruntimeconfig.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/ref/Dates.dll

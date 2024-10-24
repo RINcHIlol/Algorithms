@@ -1,0 +1,14 @@
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/bin/Debug/net8.0/MonkeySort
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/bin/Debug/net8.0/MonkeySort.deps.json
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/bin/Debug/net8.0/MonkeySort.runtimeconfig.json
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/bin/Debug/net8.0/MonkeySort.dll
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/bin/Debug/net8.0/MonkeySort.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/obj/Debug/net8.0/MonkeySort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/obj/Debug/net8.0/MonkeySort.AssemblyInfoInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/obj/Debug/net8.0/MonkeySort.AssemblyInfo.cs
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/obj/Debug/net8.0/MonkeySort.csproj.CoreCompileInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/obj/Debug/net8.0/MonkeySort.dll
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/obj/Debug/net8.0/refint/MonkeySort.dll
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/obj/Debug/net8.0/MonkeySort.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/obj/Debug/net8.0/MonkeySort.genruntimeconfig.cache
+/Users/rinchi/VSCodeProjects/Algorithms/MonkeySort/obj/Debug/net8.0/ref/MonkeySort.dll
