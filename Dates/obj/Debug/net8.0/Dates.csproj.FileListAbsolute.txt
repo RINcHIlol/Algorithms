@@ -12,3 +12,4 @@
 /Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/Dates.pdb
 /Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/Dates.genruntimeconfig.cache
 /Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/ref/Dates.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Dates/obj/Debug/net8.0/Dates.sourcelink.json
