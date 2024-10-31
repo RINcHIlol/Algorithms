@@ -1,0 +1,15 @@
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/obj/Debug/net8.0/Vector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/obj/Debug/net8.0/Vector.AssemblyInfoInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/obj/Debug/net8.0/Vector.AssemblyInfo.cs
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/obj/Debug/net8.0/Vector.csproj.CoreCompileInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/obj/Debug/net8.0/Vector.sourcelink.json
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/bin/Debug/net8.0/Vector
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/bin/Debug/net8.0/Vector.deps.json
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/bin/Debug/net8.0/Vector.runtimeconfig.json
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/bin/Debug/net8.0/Vector.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/bin/Debug/net8.0/Vector.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/obj/Debug/net8.0/Vector.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/obj/Debug/net8.0/refint/Vector.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/obj/Debug/net8.0/Vector.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/obj/Debug/net8.0/Vector.genruntimeconfig.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Vector/obj/Debug/net8.0/ref/Vector.dll
