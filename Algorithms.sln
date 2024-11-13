@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hamster", "Hamster\Hamster.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slojenie", "Slojenie\Slojenie.csproj", "{1B32459D-1266-4116-AD53-48C02F6CCB9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector", "Vector\Vector.csproj", "{7B14B0AB-2FD4-4829-92B5-C788370DA06D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervals", "Intervals\Intervals.csproj", "{388F412B-0BBC-4C76-9809-A18BF8A37C61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{1B32459D-1266-4116-AD53-48C02F6CCB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B32459D-1266-4116-AD53-48C02F6CCB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B32459D-1266-4116-AD53-48C02F6CCB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B14B0AB-2FD4-4829-92B5-C788370DA06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B14B0AB-2FD4-4829-92B5-C788370DA06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B14B0AB-2FD4-4829-92B5-C788370DA06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B14B0AB-2FD4-4829-92B5-C788370DA06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388F412B-0BBC-4C76-9809-A18BF8A37C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388F412B-0BBC-4C76-9809-A18BF8A37C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388F412B-0BBC-4C76-9809-A18BF8A37C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388F412B-0BBC-4C76-9809-A18BF8A37C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Vector")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Intervals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8db821b747194de3c3c45d7295f26ddebd195249")]
-[assembly: System.Reflection.AssemblyProductAttribute("Vector")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Vector")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1021cfda4dcbcca493f133b027e375764d671b5")]
+[assembly: System.Reflection.AssemblyProductAttribute("Intervals")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Intervals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rinchi/VSCodeProjects/Algorithms/Vector/Vector.csproj",
-      "projectName": "Vector",
-      "projectPath": "/Users/rinchi/VSCodeProjects/Algorithms/Vector/Vector.csproj",
+      "projectUniqueName": "/Users/rinchi/VSCodeProjects/Algorithms/Intervals/Intervals.csproj",
+      "projectName": "Intervals",
+      "projectPath": "/Users/rinchi/VSCodeProjects/Algorithms/Intervals/Intervals.csproj",
       "packagesPath": "/Users/rinchi/.nuget/packages/",
-      "outputPath": "/Users/rinchi/VSCodeProjects/Algorithms/Vector/obj/",
+      "outputPath": "/Users/rinchi/VSCodeProjects/Algorithms/Intervals/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rinchi/.nuget/NuGet/NuGet.Config"

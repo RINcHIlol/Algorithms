@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Vector/1.0.0": {
+      "Intervals/1.0.0": {
         "runtime": {
-          "Vector.dll": {}
+          "Intervals.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Vector/1.0.0": {
+    "Intervals/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

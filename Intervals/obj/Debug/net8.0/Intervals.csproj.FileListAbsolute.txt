@@ -1,0 +1,15 @@
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/bin/Debug/net8.0/Intervals
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/bin/Debug/net8.0/Intervals.deps.json
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/bin/Debug/net8.0/Intervals.runtimeconfig.json
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/bin/Debug/net8.0/Intervals.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/bin/Debug/net8.0/Intervals.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/obj/Debug/net8.0/Intervals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/obj/Debug/net8.0/Intervals.AssemblyInfoInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/obj/Debug/net8.0/Intervals.AssemblyInfo.cs
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/obj/Debug/net8.0/Intervals.csproj.CoreCompileInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/obj/Debug/net8.0/Intervals.sourcelink.json
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/obj/Debug/net8.0/Intervals.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/obj/Debug/net8.0/refint/Intervals.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/obj/Debug/net8.0/Intervals.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/obj/Debug/net8.0/Intervals.genruntimeconfig.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Intervals/obj/Debug/net8.0/ref/Intervals.dll
