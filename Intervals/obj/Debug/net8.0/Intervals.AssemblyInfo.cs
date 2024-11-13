@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Intervals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1021cfda4dcbcca493f133b027e375764d671b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+228246b25765571c0f6169dafaf4e716bf20d7ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Intervals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Intervals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
