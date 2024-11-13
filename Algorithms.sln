@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hamster", "Hamster\Hamster.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slojenie", "Slojenie\Slojenie.csproj", "{1B32459D-1266-4116-AD53-48C02F6CCB9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector", "Vector\Vector.csproj", "{7B14B0AB-2FD4-4829-92B5-C788370DA06D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediana", "Mediana\Vector.csproj", "{7B14B0AB-2FD4-4829-92B5-C788370DA06D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervals", "Intervals\Intervals.csproj", "{388F412B-0BBC-4C76-9809-A18BF8A37C61}"
 EndProject
