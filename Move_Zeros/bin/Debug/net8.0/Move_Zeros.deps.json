@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Move_Zeros/1.0.0": {
+        "runtime": {
+          "Move_Zeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Move_Zeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

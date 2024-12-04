@@ -1,0 +1,15 @@
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/bin/Debug/net8.0/Move_Zeros
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/bin/Debug/net8.0/Move_Zeros.deps.json
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/bin/Debug/net8.0/Move_Zeros.runtimeconfig.json
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/bin/Debug/net8.0/Move_Zeros.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/bin/Debug/net8.0/Move_Zeros.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/obj/Debug/net8.0/Move_Zeros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/obj/Debug/net8.0/Move_Zeros.AssemblyInfoInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/obj/Debug/net8.0/Move_Zeros.AssemblyInfo.cs
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/obj/Debug/net8.0/Move_Zeros.csproj.CoreCompileInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/obj/Debug/net8.0/Move_Zeros.sourcelink.json
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/obj/Debug/net8.0/Move_Zeros.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/obj/Debug/net8.0/refint/Move_Zeros.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/obj/Debug/net8.0/Move_Zeros.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/obj/Debug/net8.0/Move_Zeros.genruntimeconfig.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Move_Zeros/obj/Debug/net8.0/ref/Move_Zeros.dll
