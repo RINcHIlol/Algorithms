@@ -1,0 +1,15 @@
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/bin/Debug/net8.0/Replays
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/bin/Debug/net8.0/Replays.deps.json
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/bin/Debug/net8.0/Replays.runtimeconfig.json
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/bin/Debug/net8.0/Replays.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/bin/Debug/net8.0/Replays.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/obj/Debug/net8.0/Replays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/obj/Debug/net8.0/Replays.AssemblyInfoInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/obj/Debug/net8.0/Replays.AssemblyInfo.cs
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/obj/Debug/net8.0/Replays.csproj.CoreCompileInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/obj/Debug/net8.0/Replays.sourcelink.json
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/obj/Debug/net8.0/Replays.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/obj/Debug/net8.0/refint/Replays.dll
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/obj/Debug/net8.0/Replays.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/obj/Debug/net8.0/Replays.genruntimeconfig.cache
+/Users/rinchi/VSCodeProjects/Algorithms/Replays/obj/Debug/net8.0/ref/Replays.dll

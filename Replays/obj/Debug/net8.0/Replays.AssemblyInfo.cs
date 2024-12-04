@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Hamster")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Replays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6309f4b7cc59a82335d0428f9f89c2f4022a443")]
-[assembly: System.Reflection.AssemblyProductAttribute("Hamster")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Hamster")]
+[assembly: System.Reflection.AssemblyProductAttribute("Replays")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Replays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
