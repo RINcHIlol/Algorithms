@@ -1,0 +1,15 @@
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/bin/Debug/net8.0/workWithFiles
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/bin/Debug/net8.0/workWithFiles.deps.json
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/bin/Debug/net8.0/workWithFiles.runtimeconfig.json
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/bin/Debug/net8.0/workWithFiles.dll
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/bin/Debug/net8.0/workWithFiles.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/obj/Debug/net8.0/workWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/obj/Debug/net8.0/workWithFiles.AssemblyInfoInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/obj/Debug/net8.0/workWithFiles.AssemblyInfo.cs
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/obj/Debug/net8.0/workWithFiles.csproj.CoreCompileInputs.cache
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/obj/Debug/net8.0/workWithFiles.sourcelink.json
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/obj/Debug/net8.0/workWithFiles.dll
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/obj/Debug/net8.0/refint/workWithFiles.dll
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/obj/Debug/net8.0/workWithFiles.pdb
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/obj/Debug/net8.0/workWithFiles.genruntimeconfig.cache
+/Users/rinchi/VSCodeProjects/Algorithms/workWithFiles/obj/Debug/net8.0/ref/workWithFiles.dll
